@@ -5,7 +5,6 @@ site 20/09/2025
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Заголовок страницы</title>
 </head>
 <body>
     <h1>дарова</h1>
